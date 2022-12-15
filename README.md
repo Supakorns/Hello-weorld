@@ -1,6 +1,7 @@
 # HelloWeorld
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
+![image](https://user-images.githubusercontent.com/29247038/207774886-d0a40885-bc5c-4cac-a4ee-f5664232d859.png)
 
 ## Development server
 
